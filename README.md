@@ -1,5 +1,7 @@
 # Next.Js Starter
 
+[![CodeQL](https://github.com/milliorn/nextjs-starter/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/milliorn/nextjs-starter/actions/workflows/github-code-scanning/codeql)
+
 This is a Next.js project bootstrapped with create-next-app. It serves as a starter template for building Next.js applications with TypeScript and ESLint.
 
 ## Getting Started
